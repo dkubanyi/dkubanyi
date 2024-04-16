@@ -1,5 +1,15 @@
 # mypage
 
+## Deployment
+
+Thanks to [this Medium article](https://mkay11.medium.com/how-to-deploy-your-vite-vue-3-application-in-github-pages-2023-2b842f50576a):
+```sh
+npm run build
+git subtree push --prefix dist origin gh-pages
+```
+This will push just the `dist` folder to the `gh-pages` branch and it will be automatically deployed to GitHub pages.
+It might be necessary to delete the `gh-pages` branch manually first. 
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
