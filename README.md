@@ -1,49 +1,50 @@
-# mypage
+<h1>Hello 👋 I'm Daniel</h1>
 
-## Deployment
+I'm a software engineer with a passion for writing clean, efficient, and scalable code.
 
-Thanks to [this Medium article](https://mkay11.medium.com/how-to-deploy-your-vite-vue-3-application-in-github-pages-2023-2b842f50576a):
-```sh
-npm run build
-git subtree push --prefix dist origin gh-pages
-```
-This will push just the `dist` folder to the `gh-pages` branch and it will be automatically deployed to GitHub pages.
-It might be necessary to delete the `gh-pages` branch manually first. 
+- 👨‍💻 I specialize in Java, Kotlin and Go, which I enjoy using to build robust and reliable systems. I also use Rust 🦀 for some projects. 
 
-This template should help get you started developing with Vue 3 in Vite.
+- 📚 When I'm not coding, you can find me hiking or enjoying a good book.
 
-## Recommended IDE Setup
+- 💼 8+ years of production experience.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- 📑 Long term B2B CONTRACTS are preferred.
 
-## Type Support for `.vue` Imports in TS
+- 🤝 Let's connect and work on some exciting projects together!
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- 💬 Get in touch with me **on my socials**
 
-## Customize configuration
+<h3 align="left">Connect with me:</h3>
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+[<img src="./assets/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">](https://www.linkedin.com/in/dkubanyi)&nbsp;&nbsp;
+[<img src="./assets/github.svg" alt="LinkedIn" height="30" width="30">](https://github.com/dkubanyi)&nbsp;&nbsp;
 
-## Project Setup
 
-```sh
-npm install
-```
+<h3 align="left">Skills</h3>    
 
-### Compile and Hot-Reload for Development
+<div>
+<h4>Backend</h4>
+<img src="./assets/java.svg" alt="java"/>
+<img src="./assets/kotlin.svg" alt="kotlin"/>
+<img src="./assets/go.svg" alt="go"/>
+<img src="./assets/rust.svg" alt="rust"/>
+<img src="./assets/cs.svg" alt="csharp"/>
+<img src="./assets/spring.svg" alt="spring"/>
+<img src="./assets/dotnet.svg" alt="dotnet"/>
 
-```sh
-npm run dev
-```
+<h4>Frontend</h4>
+<img src="./assets/typescript.svg" alt="typescript" />
+<img src="./assets/angular.svg" alt="angular" />
+<img src="./assets/css.svg" alt="css" />
+<img src="./assets/scss.svg" alt="scss" />
 
-### Type-Check, Compile and Minify for Production
+<h4>Databases</h4>
+<img src="./assets/postgres.svg" alt="postgres" />
+<img src="./assets/sqlite.svg" alt="sqlite" />
+<img src="./assets/redis.svg" alt="redis" />
+<img src="./assets/mongodb.svg" alt="mongodb" />
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+<h4>Devops</h4>
+<img src="./assets/docker.svg" alt="docker" />
+<img src="./assets/kubernetes.svg" alt="kubernetes" />
+</div>
